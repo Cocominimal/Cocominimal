@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cocominimal
+- 👋 Hi, I’m @cocominimal
 - 👀 I’m interested in web development and designing
 - 🌱 I’m currently learning Mobile Development
 
