@@ -9,7 +9,6 @@
   <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" width="40" height="40"/> 
   <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor" alt="dotnet" width="40" height="40"/> 
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
-  <br/>
   <img src="https://icongr.am/devicon/illustrator-line.svg?size=128&color=currentColor" alt="illustrator" width="40" height="40"/> 
   <img src="https://icongr.am/devicon/photoshop-line.svg?size=128&color=currentColor" alt="photoshop" width="40" height="40"/> 
 <!---
